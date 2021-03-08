@@ -9,10 +9,7 @@ import static org.junit.Assert.*;
  * @author daniel
  */
 public class ExamenTest {
-    
-    /**
-     *
-     */
+
     public ExamenTest() {
     }
     /**
